@@ -192,7 +192,7 @@ input, select, textarea {
 	}
 
 		.container.medium {
-			width: 38.25em;
+			width: 50em;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2004,14 +2004,15 @@ input, select, textarea {
 
 			header.major h2 {
 				margin: 0;
+               
 			}
 
 			header.major p {
 				top: 0;
 				margin: 1.5em 0 0 0;
-				padding: 1.5em 1.5em 0 1.5em;
+				padding: 1.5em 1.5em 0 0;
 				font-size: 1.5em;
-				line-height: 1.75em;
+				line-height: 1.25em;
 				border-top: solid 1px rgba(224, 224, 224, 0.75);
 				display: inline-block;
 			}
@@ -2600,7 +2601,7 @@ input, select, textarea {
 		background: #ffffff;
 		border: solid 1px rgba(224, 224, 224, 0.75);
 		margin-bottom: 6em;
-		padding: 3.5em;
+		padding: 2em;
 	}
 
 		.box.alt {
@@ -2706,7 +2707,7 @@ input, select, textarea {
 
 	#header {
 		background-attachment: scroll,							scroll,					fixed;
-		background-image: url("images/top-3200.svg"), url("https://cdn.hipwallpaper.com/i/81/6/Hyhjwc.png"),  url("https://img.pngio.com/clip-art-collection-of-free-ocean-cartoon-transparent-background-cartoon-water-transparent-2518_1714.png");
+		background-image: url("images/top-3200.svg"), url("https://i.pinimg.com/originals/35/e2/ee/35e2ee820134ac1faa6bfccb7bc34a10.png"),  url("https://i.imgur.com/D2gWOXY.jpg");
 		background-position: bottom center,					top left,				center center;
 		background-repeat: repeat-x,						repeat,					no-repeat;
 		background-size: 3200px 460px,					auto,					cover;
